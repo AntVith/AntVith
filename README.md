@@ -2,7 +2,7 @@
 
 Imagine the Matrix + The "One Rule" of Fight Club + The Office.
 
-Magic :octocat:
+Magic
 
 Magic is what I create.
 
