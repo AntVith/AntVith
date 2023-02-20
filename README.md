@@ -4,9 +4,13 @@ Imagine the Matrix + The "One Rule" of Fight Club + The Office.
 
 Magic
 
-Magic is what I create.
+Magic is what I thought coding/software engineering was because of the complex undertone associated with the role.
 
-From this magic I have created:
+After learning languages like JavaScript, Python, SQL, HTML, and CSS I now know what it takes to to build "things".
+
+I have worked on full stacj web application projects mentioned below for you to take a look at. Feel free to let me know what you think!
+
+
 * Striverr :computer: -- a freelance tech and software engineering web application modeled off of Fiverr with features in services, bookings, and reviews
 * SoundStream :headphones: -- a music sharing app designed after SoundCloud with full music upload functionality to AWS, WaveSurfer techonology for music play, and comment and like capabilities
     
