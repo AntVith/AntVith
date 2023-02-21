@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Imagine the Matrix + The "One Rule" of Fight Club + The Office.
-
 Magic
 
 Magic is what I thought coding/software engineering was because of the complex undertone associated with the field.
 
-After learning languages like JavaScript, Python, SQL, HTML, and CSS I now know what it takes to build "things".
+After learning languages like JavaScript, Python, SQL, HTML, and CSS I now know how to do "magic".
 
 I have worked on full stack web application projects mentioned below for you to take a look at. Feel free to let me know what you think!
 
