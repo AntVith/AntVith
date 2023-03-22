@@ -10,7 +10,7 @@ I have worked on full stack web application projects mentioned below for you to 
 
 
 * Striverr :computer: -- a freelance tech and software engineering web application modeled off of Fiverr with features in services, bookings, and reviews
-* SoundStream :headphones: -- a music sharing app designed after SoundCloud with full music upload functionality to AWS, WaveSurfer techonology for music play, and comment and like capabilities
+* SoundStream :headphones: -- a music sharing app designed after SoundCloud with full music upload functionality to AWS, WaveSurfer technology for music play, and comment and like capabilities
     
 I'm also currently progressing my skills and knowledge in Python, JavaScript, SQL, HTML, CSS, React, Redux, Flask, Express, and more!
 
